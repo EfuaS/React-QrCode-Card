@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+body{
+    background-color: hsl(219, 82%, 85%);
+}
+
+div{
+    display: block;
+}
+
+.qrCard{
+    background-color: #fff;
+    padding: 22px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    transform: translate(-50%, -50%);
+    border-radius: 16px;
+}
+
+.cardText{
+    padding: 20px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-size: 19px;
+
+}
+
+p{
+    font-size: 16px;
+    color: hsl(214, 3%, 51%);
+}
+
+.image{
+    display: block;
+
+}
